@@ -1,0 +1,15 @@
+.env
+node_modules/
+test-results/
+
+.env
+.env.*
+!.env.example
+node_modules/
+.DS_Store
+
+.env
+.env.*
+!.env.example
+node_modules/
+.DS_Store
